@@ -1,0 +1,32 @@
+  <div class="w3-container">
+    <h5>Daily Ranking</h5>
+    <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
+      <tr>
+        <td>Jane</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Mike</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Maggie</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Leo</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>Jose</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Raja</td>
+        <td>6</td>
+      </tr>
+    </table><br>
+    <button class="w3-button w3-dark-grey">More friends  <i class="fa fa-arrow-right"></i></button>
+  </div>
+  <hr>
+  
